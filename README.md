@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shane!
-- 👀 I’m interested in expanding access to open data and helping people make great data visualizations
-- You'll probably see me write SQL, LookML, and some Python in my repos. I can't promise it'll be great, but I'm always happy to collaborate and learn more!
-- Find me on <a rel="me" href="https://hachyderm.io/@shanecglass">Mastodon</a> and <a href="https://twitter.com/shanecglass">Twitter</a> for links to my latest work
+- 👀 I’m interested in expanding access to open data and helping people make great data visualizations. I'm really passionate about helping folks get the most out of their data.
+- You'll probably see me write SQL, Python, Terraform, and a little bit of everything else in my repos
+- Find me on <a rel="me" href="https://hachyderm.io/@shanecglass">Mastodon</a>, <a href="https://bsky.app/profile/shanecglass.bsky.social">Bluesky</a> and <a href="https://twitter.com/shanecglass">Twitter</a> for links to my latest work
 
 
 <!---
